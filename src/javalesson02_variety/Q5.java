@@ -1,10 +1,12 @@
 package javalesson02_variety;
 
+import java.util.Scanner;
+
 public class Q5 {
-
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
+		Scanner scanner = new Scanner(System.in);
+		String name = scanner.nextLine();
+		System.out.println("こんにちは, " + name + " さん！");
+		scanner.close();
 	}
-
 }
