@@ -1,4 +1,4 @@
-package javalesson10class;
+package javalesson10override;
 
 class Cat extends Animal{
 	@Override

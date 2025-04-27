@@ -1,4 +1,4 @@
-package javalesson10class;
+package javalesson10constractor;
 
 public class Person {
 	//
