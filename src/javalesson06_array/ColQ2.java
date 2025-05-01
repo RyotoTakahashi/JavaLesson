@@ -18,7 +18,7 @@ public class ColQ2 {
 		System.out.println(numbers);
 		
 		//HashSetに変換
-		Set<Integer> numSet = new HashSet<Integer>(numbers);
+		Set<Integer> numSet = new HashSet<>(numbers);
 		System.out.println(numSet);
 	}
 

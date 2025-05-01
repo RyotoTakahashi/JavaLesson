@@ -13,7 +13,7 @@ public class ColQ3 {
 		Fruits.remove("バナナ");
 		Fruits.add("オレンジ");
 		
-		System.out.println(Fruits);;
+		System.out.println(Fruits);
 	}
 
 }

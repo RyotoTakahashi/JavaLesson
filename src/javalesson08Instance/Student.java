@@ -8,7 +8,7 @@ public class Student {
 	public static class data{
 		//型
 		String name;
-		ArrayList<Integer> score = new ArrayList<Integer>();
+		ArrayList<Integer> score = new ArrayList<>();
 		public void setName(String value){
 			name = value;
 		}
@@ -31,7 +31,7 @@ public class Student {
 			System.out.println(score);
 		}
 		public void average() {
-			float size = (float)score.size();
+			float size = score.size();
 			int sum = 0;
 			for (int num : score) {
 				sum += num;
