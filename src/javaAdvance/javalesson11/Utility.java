@@ -1,4 +1,4 @@
-package javaAdvance.javalesson11import;
+package javaAdvance.javalesson11;
 
 
 public class Utility {

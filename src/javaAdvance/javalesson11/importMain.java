@@ -1,13 +1,13 @@
-package javaAdvance.javalesson11import;
+package javaAdvance.javalesson11;
 
 import static java.lang.Math.*;
-import static javaAdvance.javalesson11import.Utility.*;
+import static javaAdvance.javalesson11.Utility.*;
 
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class importMain {
 
 	public static void main(String[] args) {
 		//Q1,2

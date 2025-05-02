@@ -8,6 +8,7 @@ public class WhileControl {
 
 	public static void main(String[] args) {
 		int i, j, k;
+		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		// While Q1
 		i = 0;
